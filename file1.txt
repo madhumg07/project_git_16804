@@ -1,1 +1,2 @@
 creating text file for git
+enter the commands
